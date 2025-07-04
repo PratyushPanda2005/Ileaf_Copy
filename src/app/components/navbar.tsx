@@ -121,7 +121,7 @@ const pageAnimation = () => {
       },
       {
         opacity: 0.5,
-        scale: 0.9,
+        scale: 1,
         transform: "translateY(-100px)",
       },
     ],
